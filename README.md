@@ -13,8 +13,8 @@ Passion : développement web, petites apps interactives et apprentissage continu
 ---
 
 ## 🧰 Stack & outils
-- Langages : HTML · CSS · JavaScript  
-- Outils : Git · GitHub · VS Code · (bientôt : Node / Express)
+- Langages : HTML - CSS - JavaScript - Typescript - Angular - 
+- Outils : Git · GitHub · VS Code · Node 
 
 ---
 

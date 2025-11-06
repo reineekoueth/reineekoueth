@@ -1,19 +1,14 @@
 # 👋 hello ! Je suis REINE EKOUETH
 
 Étudiante en informatique — au lycée TURGOT* (Paris,France )  
-Passion : développement web, petites apps interactives et apprentissage continu.
+Passionnée par le développement web, petites apps interactives et apprentissage continu.
 
 ---
-
-## 🧭 Ce que je fais
-- 💻 Je crée des projets front simples (HTML/CSS/JS) et des petits exercices pratiques.
-- 🌱 J’apprends actuellement : JavaScript avancé, bases de données, et bonnes pratiques Git.
-- 🎯 Objectif : construire des projets qui se déploient et apprendre le workflow collaboratif.
 
 ---
 
 ## 🧰 Stack & outils
-- Langages : HTML - CSS - JavaScript - Typescript - Angular - 
+- Langages : HTML - CSS - JavaScript - Typescript - Angular 
 - Outils : Git · GitHub · VS Code · Node 
 
 ---

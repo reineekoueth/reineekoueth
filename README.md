@@ -1,37 +1,46 @@
-# 👋 hello ! Je suis REINE EKOUETH
+<!-- 💫 Profil GitHub de REINE EKOUETH -->
 
-Étudiante en informatique — au lycée TURGOT* (Paris,France )  
-Passionnée par le développement web, petites apps interactives et apprentissage continu.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="Logo de Reine Ekoueth">
+</p>
+
+# 👋 Hello ! Je suis **REINE EKOUETH**
+
+🎓 Étudiante en **informatique** — au *Lycée TURGOT* (Paris, France)  
+💡 Passionnée par le **développement web**, les **petites apps interactives** et **l’apprentissage continu**.
 
 ---
 
----
-
-## 🧰 Stack & outils
-- Langages : HTML - CSS - JavaScript - Typescript - Angular 
-- Outils : Git · GitHub · VS Code · Node 
+## 🧰 Stack & Outils
+🖋️ **Langages** : HTML · CSS · JavaScript · TypeScript · Angular  
+🛠️ **Outils** : Git · GitHub · VS Code · Node.js  
 
 ---
 
 ## ✨ Projets en vedette
-- **MWUNA-VACANCES-** — mini-site HTML (voir repo).  
-- **memorisation** — exercice / projet d’apprentissage.  
-- **chifoumi** — fork d’un projet de jeu simple (pierre-papier-ciseaux).
+🌸 **MWUNA-VACANCES** — mini-site HTML *(voir repo)*  
+🧠 **Memorisation** — jeu d’entraînement à la mémoire *(projet d’apprentissage)*  
+✊ **Chifoumi** — jeu simple pierre-papier-ciseaux *(fork personnel)*  
 
-*(Épingle ces dépôts sur ton profil pour les mettre en avant.)*
+💡 *Astuce : épingle ces dépôts sur ton profil pour les mettre en avant !*
 
 ---
 
-## 📫 Contact
-- LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com)  
-- Email : ton.email@example.com
+## 📫 Me contacter
+🔗 **LinkedIn** : [linkedin.com/in/reineekoueth](https://linkedin.com)  
+📧 **Email** : reine.ekoueth@example.com  
 
 ---
 
 ## 📈 Statistiques GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reineekoueth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reineekoueth&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reineekoueth&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reineekoueth&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-Merci de visiter mon profil — je suis ouverte aux collaborations et aux retours ! 🚀
+✨ *Merci de visiter mon profil !*  
+Je suis ouverte aux **collaborations**, aux **projets open-source** et toujours prête à apprendre 🚀
+

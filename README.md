@@ -30,15 +30,7 @@
 
 ## ✨ Projets en vedette
 
-🌸 **MWUNA-VACANCES** — mini-site HTML *(voir repo)*  
-🧠 **Memorisation** — jeu d’entraînement à la mémoire *(projet d’apprentissage)*  
-✊ **Chifoumi** — jeu simple pierre-papier-ciseaux *(fork personnel)*  
-
-💡 *Astuce : épingle ces dépôts sur ton profil pour les mettre en avant !*
-
----
-
-## 📫 Me contacter
+## Me contacter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
@@ -46,7 +38,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"/>
   </a>
 </p>
 
@@ -62,6 +54,5 @@
 ---
 
 ✨ *Merci de visiter mon profil !*  
-Je suis ouverte aux **collaborations**, aux **projets open-source** et toujours prête à apprendre 🚀
 
 

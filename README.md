@@ -1,6 +1,6 @@
-# 👋 Salut ! Je suis REINE EKOUETH
+# 👋 hello ! Je suis REINE EKOUETH
 
-Étudiante en informatique — *student at turgot* (Paris 🇫🇷)  
+Étudiante en informatique — au lycée TURGOT* (Paris,France )  
 Passion : développement web, petites apps interactives et apprentissage continu.
 
 ---

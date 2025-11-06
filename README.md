@@ -45,9 +45,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="">
-    <img src="<img width="512" height="512" alt="4202011_email_gmail_mail_logo_social_icon" src="https://github.com/user-attachments/assets/9ea211c8-eab0-4fa4-b5b3-ae39f0a94d2f" />
-" width="60" alt="Email"/>
+  <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail logo"/>
   </a>
 </p>
 

@@ -41,12 +41,13 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://linkedin.com/in/reineekoueth" target="_blank">
+  <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:reine.ekoueth@example.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="60" alt="Email"/>
+  <a href="">
+    <img src="<img width="512" height="512" alt="4202011_email_gmail_mail_logo_social_icon" src="https://github.com/user-attachments/assets/9ea211c8-eab0-4fa4-b5b3-ae39f0a94d2f" />
+" width="60" alt="Email"/>
   </a>
 </p>
 

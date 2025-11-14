@@ -3,8 +3,7 @@
 # 👋 Hello ! Je suis **REINE EKOUETH**
 
 🎓 Étudiante en **informatique** — au *Lycée TURGOT* (Paris, France)  
-💡 Passionnée par le **développement web**, les **petites apps interactives** et **l’apprentissage continu**.
-
+💡 Passionnée par le **développement web** et les **petites apps interactives**
 ---
 
 ## 🧰 Stack & Outils
@@ -28,7 +27,7 @@
 
 ---
 
-## ✨ Projets en vedette
+## ✨ Projets 
 
 ## Me contacter
 

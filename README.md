@@ -36,9 +36,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
+  <!--a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"/>
-  </a>
+</a-->
 </p>
 
 ---

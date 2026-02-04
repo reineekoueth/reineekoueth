@@ -2,7 +2,7 @@
 
 # 👋 Hello ! Je suis **REINE EKOUETH**
 
-🎓 Étudiante en **informatique** — au *Lycée TURGOT* (Paris, France)  
+🎓 Étudiante en **informatique option SLAM ** — au *Lycée TURGOT*  
 💡 Passionnée par le **développement web** et les **petites apps interactives**
 ---
 
@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular"/>
+  <img src="" width="60" alt="react"/>
 
   <br/>
 

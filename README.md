@@ -1,10 +1,7 @@
 <!--  Profil GitHub de REINE EKOUETH -->
+Bienvenue sur le Github de Reine EKOUETH 
 
-# 👋 Hello ! Je suis **REINE EKOUETH**
-
-🎓 Étudiante en **informatique option SLAM ** — au *Lycée TURGOT*  
-💡 Passionnée par le **développement web** et les **petites apps interactives**
----
+# etudiante en BTS SIO SLAM 
 
 ## 🧰 Stack & Outils
 
@@ -36,7 +33,6 @@
   <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 

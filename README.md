@@ -33,22 +33,13 @@
 ## Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/" target="_blank">
+  <a href="https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 </p>
 
----
 
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reineekoueth&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reineekoueth&layout=compact&theme=radical" height="160"/>
-</p>
-
----
 
 ✨ *Merci de visiter mon profil !*  
 

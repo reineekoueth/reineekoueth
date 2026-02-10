@@ -45,10 +45,10 @@ Passionnée par le développement web et les nouvelles technologies, je suis act
 
 ## 🚀 Projets récents
 
-### ⚡ [MWUNA VACANCES ](lien-vers-repo)
+### ⚡ [AfricanStory ](https://reineekoueth.github.io/africanstorys/ )
 Description courte du projet - Technologies utilisées : HTML, CSS, JavaScript
 
-### ⚡ [NUMBER_G](lien-vers-repo)
+### ⚡ [NUMBER_G](https://reineekoueth.github.io/number_g/)
 Description courte du projet - Technologies utilisées :  PHP, CSS, JavaScript
 
 

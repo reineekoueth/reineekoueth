@@ -2,7 +2,8 @@
   
 # 👋 Bienvenue sur mon profil GitHub
 
-### 🎓 Étudiante en BTS SIO option SLAM
+### Je suis REINE EKOUETH 
+*🎓 Étudiante en BTS SIO option SLAM*
 *Solutions Logicielles et Applications Métiers*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/)
@@ -15,7 +16,7 @@
 
 Passionnée par le développement web et les nouvelles technologies, je suis actuellement en formation BTS SIO spécialité SLAM. Mon parcours me permet d'acquérir des compétences solides en développement d'applications et en gestion de projets informatiques.
 
-🎯 **Objectifs** : Devenir développeuse full-stack et contribuer à des projets innovants
+🎯 **Objectifs** : Devenir développeuse full-stack /  et contribuer à des projets innovants
 
 ---
 
@@ -42,27 +43,14 @@ Passionnée par le développement web et les nouvelles technologies, je suis act
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" title="Node.js"/>
 </p>
 
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reineekoueth&show_icons=true&theme=dark&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=000000&border_color=FFD700)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reineekoueth&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700)
-
-</div>
-
----
-
 ## 🚀 Projets récents
 
-### ⚡ [Nom du Projet 1](lien-vers-repo)
+### ⚡ [MWUNA VACANCES ](lien-vers-repo)
 Description courte du projet - Technologies utilisées : HTML, CSS, JavaScript
 
-### ⚡ [Nom du Projet 2](lien-vers-repo)
-Description courte du projet - Technologies utilisées : Angular, TypeScript
+### ⚡ [NUMBER_G](lien-vers-repo)
+Description courte du projet - Technologies utilisées :  PHP, CSS, JavaScript
+
 
 ---
 

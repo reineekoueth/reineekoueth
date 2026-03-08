@@ -51,7 +51,8 @@ Description courte du projet - Technologies utilisées : HTML, CSS, JavaScript
 ### ⚡ [NUMBER_G](https://reineekoueth.github.io/number_g/)
 Description courte du projet - Technologies utilisées :  PHP, CSS, JavaScript
 
-
+### ⚡ [Mon PORTFOLIO](https://portfolio-reineekoueth.vercel.app/)
+voir mon portfolio
 ---
 
 ## 🎯 Compétences en cours d'acquisition
@@ -69,7 +70,6 @@ Description courte du projet - Technologies utilisées :  PHP, CSS, JavaScript
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/)
-[![Mon protfolio](https://portfolio-reineekoueth.vercel.app/)
 </div>
 
 ---

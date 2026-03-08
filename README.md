@@ -69,7 +69,7 @@ Description courte du projet - Technologies utilisées :  PHP, CSS, JavaScript
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/)
-
+[![Mon protfolio](https://portfolio-reineekoueth.vercel.app/)
 </div>
 
 ---

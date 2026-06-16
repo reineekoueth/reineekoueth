@@ -48,7 +48,7 @@ Passionnée par le développement web et les nouvelles technologies, je suis act
 ### ⚡ [AfricanStory ](https://reineekoueth.github.io/africanstorys/ )
 Description courte du projet - Technologies utilisées : HTML, CSS, JavaScript
 
-### ⚡ [NUMBER_G](https://reineekoueth.github.io/number_g/)
+### ⚡
 Description courte du projet - Technologies utilisées :  PHP, CSS, JavaScript
 
 ### ⚡ [Mon PORTFOLIO](https://portfolio-reineekoueth.vercel.app/)

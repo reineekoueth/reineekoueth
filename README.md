@@ -3,8 +3,9 @@
 # 👋 Bienvenue sur mon profil GitHub
 
 ### Je suis REINE EKOUETH 
-*🎓 Étudiante en BTS SIO option SLAM*
-*Solutions Logicielles et Applications Métiers*
+*🎓 Étudiante en Bachelor ingenuirie DevOps*
+*à la recherche d'une alternance en DevOps ou developpement fullstack*
+*Rythme de 3 semaine entreprise et 1 semaine ecole*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/reineekouethzwtvdwv0acbyzwluzq/)
 

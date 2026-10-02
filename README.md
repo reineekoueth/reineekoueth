@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FF9ECD,100:C77DFF&text=Reine%20Ekoueth&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=DevOps%20%26%20Cloud%20%E2%9C%A8&descSize=24&descAlignY=60" alt="Bannière Reine Ekoueth"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D6336C&center=true&vCenter=true&width=640&lines=Alternante+DevOps+%2F+Cloud+%E2%9C%A8;D%C3%A9veloppeuse+full+stack+%F0%9F%92%BB;Docker+%C2%B7+Azure+%C2%B7+GitLab+CI%2FCD+%F0%9F%9A%80;Rigueur+%C2%B7+Curiosit%C3%A9+%C2%B7+Adaptabilit%C3%A9+%F0%9F%8C%B8" alt="Texte animé"/>
 <br/>
 </div>
 <br/>
-## 🌸 Bienvenue !
+hello world !
  
 Je suis **Reine Ekoueth**, développeuse full stack en spécialisation **DevOps**.
 J'aime comprendre comment une application passe de mon ordinateur à la production, et automatiser tout ce qui peut l'être. ✨

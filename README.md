@@ -73,7 +73,7 @@ J'aime comprendre comment une application passe de mon ordinateur à la producti
 | Projet | Ce que j'ai fait | Technologies | Lien |
 |---|---|---|---|
 | 💗 **Portfolio** | Mon portfolio pour l'alternance DevOps | Vercel | [Voir le site](https://portfolio-reineekoueth.vercel.app/) |
-| 🌍 **AfricanStory** | Site web en ligne sur GitHub Pages | HTML · CSS · JavaScript | [Voir le site (https://reineekoueth.github.io/africanstorys/) |
+| 🌍 **AfricanStory** | Site web en ligne sur GitHub Pages | HTML · CSS · JavaScript | [Voir le site](https://reineekoueth.github.io/africanstorys/) |
 | 🚀 **Pipeline CI/CD (ESGI)** | Pipeline GitLab en 3 étapes, merge requests, script Bash de sauvegarde | GitLab CI · Bash | _en cours_ |
 | 🏋️ **Gestion de club de sport** | API REST sécurisée, SPA, base de données déployée sur Clever Cloud | Express.js · JWT · React · Vite · MySQL | _projets mise en privée_  |
 | 🛍️ **Site e-commerce** | Back-end et base de données d'une boutique en ligne | PHP · MySQL · XAMPP | en local |
